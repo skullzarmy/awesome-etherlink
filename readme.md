@@ -44,6 +44,7 @@ Etherlink / Ethereum / Base: <code>0xE584554EAc158cEf865A6a52BF0E97C8dDf67eB5</c
 -   [DeFi](#defi)
     -   [Swap and Liquidity Pool](#swap-and-liquidity-pool)
     -   [Tokens](#tokens)
+-   [Documentation](#documentation)
 -   [Contribute](#contribute)
 
 ## Block Explorers
@@ -70,6 +71,10 @@ Decentralized finance on Etherlink
 ### Tokens
 
 -   [Degenerator.wtf](https://www.degenerator.wtf/)
+
+## Documentation
+
+-   [Etherlink Docs](https://docs.etherlink.com/)
 
 ## Contribute
 
