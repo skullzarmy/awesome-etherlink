@@ -33,7 +33,7 @@ Tezos: <code>tz1Qi77tcJn9foeHHP1QHj6UX1m1vLVLMbuY</code>
 Etherlink / Ethereum / Base: <code>0xE584554EAc158cEf865A6a52BF0E97C8dDf67eB5</code>
 </p>
 <p align="center">
-	Just type <a href="https://etherlink.mylynx.xyz/"><code>etherlink.mylynx.xyz</code></a> to go here.
+	Just type <a href="https://mylynx.xyz/etherlink"><code>mylynx.xyz/etherlink</code></a> to go here.
 </p>
 
 ## Contents
