@@ -89,6 +89,7 @@ Decentralized finance on Etherlink
 -	[The Graph](https://thegraph.com/)
 -	[LayerZero](https://layerzero.network/)
 -	[Fireblocks](https://www.fireblocks.com/) (Only mainnet)
+-	[OnChainVision Labs](https://www.ocvlabs.com/)
 
 More to come...
 
