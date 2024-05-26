@@ -83,7 +83,16 @@ Decentralized finance on Etherlink
 
 ### Tooling
 
-> Need contributions here
+-	[Thirdweb](https://thirdweb.com/)
+-	[Redstone](https://redstone.finance/)
+-	[Pyth](https://pyth.network/) (IN PROGRESS)
+-	[Subsquid](https://subsquid.io/)
+-	[The Graph](https://thegraph.com/)
+-	[LayerZero](https://layerzero.network/)
+-	[Fireblocks](https://www.fireblocks.com/) (Only mainnet)
+-	[OnChainVision Labs](https://www.ocvlabs.com/)
+
+More to come...
 
 ## Documentation
 
