@@ -61,6 +61,7 @@ View realtime and historical block data
 Crypto onramps to Etherlink
 
 -   [Etherlink Bridge](https://bridge.etherlink.com/)
+-   [Etherlink Testnet Bridge](https://bridge-xi.vercel.app/)
 
 ## DeFi
 
