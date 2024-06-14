@@ -54,7 +54,8 @@ Etherlink / Ethereum / Base: <code>0xE584554EAc158cEf865A6a52BF0E97C8dDf67eB5</c
 
 View realtime and historical block data
 
--   [Blockscout](https://etherlink.blockscout.com/)
+-   [Official Explorer](https://explorer.etherlink.com/)
+    > \*(previously blockscout) URL has been updated
 
 ## Bridges
 
