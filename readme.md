@@ -42,7 +42,6 @@ Etherlink / Ethereum / Base: <code>0xE584554EAc158cEf865A6a52BF0E97C8dDf67eB5</c
 -   [Block Explorers](#block-explorers)
 -   [Bridges](#bridges)
 -   [DeFi](#defi)
-    -   [Swap and Liquidity Pool](#swap-and-liquidity-pool)
     -   [Tokens](#tokens)
 -   [Development](#development)
     -   [Boilerplates](#boilerplates)
@@ -70,8 +69,6 @@ Decentralized finance on Etherlink
 
 ### Swap and Liquidity Pool
 
--   [Tachyswap](https://tachyswap.org/)
-
 ### Tokens
 
 -   [Degenerator.wtf](https://www.degenerator.wtf/)
@@ -84,15 +81,15 @@ Decentralized finance on Etherlink
 
 ### Tooling
 
--	[Thirdweb](https://thirdweb.com/)
--	[Redstone](https://redstone.finance/)
--	[Pyth](https://pyth.network/) (IN PROGRESS)
--	[Subsquid](https://subsquid.io/)
--	[The Graph](https://thegraph.com/)
--	[LayerZero](https://layerzero.network/)
--	[Fireblocks](https://www.fireblocks.com/) (Only mainnet)
--	[OnChainVision Labs](https://www.ocvlabs.com/)
--	[Tenderly](https://tenderly.co/) (IN PROGRESS)
+-   [Thirdweb](https://thirdweb.com/)
+-   [Redstone](https://redstone.finance/)
+-   [Pyth](https://pyth.network/) (IN PROGRESS)
+-   [Subsquid](https://subsquid.io/)
+-   [The Graph](https://thegraph.com/)
+-   [LayerZero](https://layerzero.network/)
+-   [Fireblocks](https://www.fireblocks.com/) (Only mainnet)
+-   [OnChainVision Labs](https://www.ocvlabs.com/)
+-   [Tenderly](https://tenderly.co/) (IN PROGRESS)
 
 More to come...
 
