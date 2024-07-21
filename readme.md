@@ -77,6 +77,7 @@ Decentralized finance on Etherlink
 ### Tokens
 
 -   [Degenerator.wtf](https://www.degenerator.wtf/)
+-   [OrganicGrowth.wtf](https://www.organicgrowth.wtf/)
 
 ## Development
 
