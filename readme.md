@@ -103,6 +103,11 @@ More to come...
 
 -   [Etherlink Docs](https://docs.etherlink.com/)
 
+## NFTs
+
+-   [BLTNFT.xyz](https://bltnft.xyz/)
+    > Buy and sell your BLTNFT ingredients, accumulate MAYO, and soon assemble your BLTNFT!
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
