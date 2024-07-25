@@ -43,6 +43,7 @@ Etherlink / Ethereum / Base: <code>0xE584554EAc158cEf865A6a52BF0E97C8dDf67eB5</c
 -   [Bridges](#bridges)
     -   [Trackers](#trackers)
 -   [DeFi](#defi)
+    -   [Swap/LP](#swap-and-liquidity-pool)
     -   [Tokens](#tokens)
 -   [Development](#development)
     -   [Boilerplates](#boilerplates)
@@ -73,6 +74,8 @@ Crypto onramps to Etherlink
 Decentralized finance on Etherlink
 
 ### Swap and Liquidity Pool
+
+-   [Tachyswap](https://tachyswap.org/)
 
 ### Tokens
 
