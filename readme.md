@@ -75,7 +75,7 @@ Decentralized finance on Etherlink
 
 ### Swap and Liquidity Pool
 
--   [Tachyswap](https://tachyswap.org/)
+-   [Iguanadex](https://www.iguanadex.com/)
 
 ### Tokens
 
